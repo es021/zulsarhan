@@ -1,3 +1,4 @@
+<?php ?>
 <!--
 Author: W3layouts
 Author URL: http://w3layouts.com
@@ -44,7 +45,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="baner-text">
 			<h2 style="color:#424746;"><br>Wan Zulsarhan
 				<small>
-					<div>Sofware Engineer<br>Web Developer<br>Graphic Designer</div>
+					<span>Sofware Engineer<br>Web Developer<br>Graphic Designer</span>
 				</small>
 			</h2>	
 			</div>	
@@ -99,9 +100,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<!--about-->
 	<div class="about" id="about">
 		<div class="container">
-			<h3 class="title">Welcome to my portfolio</h3>
-			<p>I am a Software Engineering Senior at <strong>Iowa State University.</strong> This web portfolio documents class work, internships, and experience throughout my time at Iowa State University. Thank you for visiting my portfolio website.</p>
-		</div>	
+			<h3 class="title">Hello World!</h3>
+                        <p>I'm Zulsarhan. Web Developer on weekdays and weekends. I eat, drink and sleep code.</p>
+                </div>	
 	</div>
 	<!--//about-->
 	<!--slid-->
